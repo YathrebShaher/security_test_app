@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CryptoSwift (1.4.1)
+  - Flutter (1.0.0)
+  - ssl_pinning_plugin (0.0.1):
+    - Alamofire (~> 4.7)
+    - CryptoSwift
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ssl_pinning_plugin (from `.symlinks/plugins/ssl_pinning_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ssl_pinning_plugin:
+    :path: ".symlinks/plugins/ssl_pinning_plugin/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CryptoSwift: 0bc800a7e6a24c4fc9ebeab97d44b0d5f73a78bd
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  ssl_pinning_plugin: 21775d400c46620cc8f6f473824a6362c1b257f8
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
